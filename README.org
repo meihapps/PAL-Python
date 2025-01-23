@@ -1,0 +1,21 @@
+* PAL Python Workshop
+
+** Outline :TOC_3:
+- [[#pal-python-workshop][PAL Python Workshop]]
+  - [[#workshop-information][Workshop Information]]
+    - [[#whos-doing-it][Who's doing it?]]
+    - [[#scheduling][Scheduling]]
+
+** Workshop Information
+
+*** Who's doing it?
+
+- Mei
+- Keagan
+- Hugo
+
+*** Scheduling
+
+**** TODO Find out which modules use python
+**** TODO Find out when the people taking those modules are free
+**** TODO Cross reference with our schedules
