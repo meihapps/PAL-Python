@@ -5,6 +5,8 @@
   - [[#workshop-information][Workshop Information]]
     - [[#whos-doing-it][Who's doing it?]]
     - [[#scheduling][Scheduling]]
+  - [[#session-1][Session 1]]
+    - [[#what-is-python][What is Python?]]
 
 ** Workshop Information
 
@@ -19,3 +21,66 @@
 **** TODO Find out which modules use python
 **** TODO Find out when the people taking those modules are free
 **** TODO Cross reference with our schedules
+
+** Session 1
+
+*** What is Python?
+
+Python is an Interpreted Multi-Paradigm Programming Language.
+
+**** Compiled vs Interpreted Languages
+
+***** Compiled
+
+Traditionally, programming languages are compiled. In a Compiled Language, you write your code, compile it into an executable file and then run that file.
+
+****** Pros
+
+- Easy to make strong optimisations
+- Fast
+- Only the binary is needed to execute the code
+- Can run repeatedly without having to recompile
+
+****** Cons
+
+- Binaries are not machine agnostic
+- If any changes are made, it must be recompiled for those changes to take effect
+
+***** Interpreted
+
+In an Interpreted Language, code is processed and executed line by line.
+
+****** Pros
+
+- So long as you have the interpreter installed the code can run
+- No extra work is incurred if a change is made
+
+****** Cons
+
+- Less optimisation is possible
+- Slow
+- Must have the interpreter and the code in order to execute
+- Has to reinterpret each time the code is run
+
+**** Multi-Paradigm Language
+
+A multi-paradigm language is one that is capable of supporting multiple Language Paradigms.
+The paradigms python supports are:
+- Object Oriented
+- Procedural
+- Functional
+
+***** Object Oriented Programming
+
+The Object Oriented Paradigm is an approach to programming in which everything is an Object.
+This is the paradigm Java strictly follows, and can be most easily conceptualised as an approach in which you make Things by defining their Properties and Behaviours and having them interact with one another through those behaviours.
+
+***** Procedural Programming
+
+Procedural Programming is a subcategory of Imperative Programming. As imperative is covered and procedural is not, we're going to conflate them here for simplicity's sake.
+Imperative Programming is the most traditional approach to programming in which you go through, one command at a time and just fulfill the commands. This is the approach used by Assembly, C, and countless others.
+
+***** Functional Programming
+
+Functional Programming is an approach in which everything is a Pure Function.
+This is the paradigm Haskell follows. Pure functions are functions in which only the inputs of the function can impact the outputs. If the same inputs are given the same outputs will also be given.
