@@ -84,3 +84,15 @@ Imperative Programming is the most traditional approach to programming in which 
 
 Functional Programming is an approach in which everything is a Pure Function.
 This is the paradigm Haskell follows. Pure functions are functions in which only the inputs of the function can impact the outputs. If the same inputs are given the same outputs will also be given.
+
+**** Python Has No Main Method
+
+Unlike most languages, python is just taken line by line, starting from the top. Because of this, there's no need for a main method in python.
+HOWEVER it is deemed good practice to put all of your control flow logic (anything that isn't a class, function or constant) inside this block of code:
+
+#+BEGIN_SRC python
+  if __name__ == "__main__":
+    # code goes here
+#+END_SRC
+
+We'll get into why this is good practice at a later date, but for now treat it as a necessity.
