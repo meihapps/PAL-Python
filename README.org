@@ -18,11 +18,12 @@
 
 *** Scheduling
 
-**** Todo Items
-
-***** TODO Find out which modules use python
-***** TODO Find out when the people taking those modules are free
-***** TODO Cross reference with our schedules
+Possible Times:
+- Tuesday  16-17
+- Friday   10-11
+- Friday   11-12
+- Friday   14-15
+- Friday   15-16
 
 ** Session 1
 
