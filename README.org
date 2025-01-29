@@ -25,6 +25,8 @@ Possible Times:
 - Friday   14-15
 - Friday   15-16
 
+Currently, it is being run at 2-3pm on Fridays.
+
 ** Session 1
 
 *** What is Python?
